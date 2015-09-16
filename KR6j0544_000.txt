@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說救拔焰口餓鬼陀羅尼經
+#+DATE: 2015-08-30 20:34:30.093718
+#+PROPERTY: JUAN 0
